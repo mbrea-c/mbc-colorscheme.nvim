@@ -1,3 +1,7 @@
+**IMPORTANT NOTICE:** To improved UX for new users, merged colorscheme into
+[wal-colors](https://github.com/mbrea-c/wal-colors.nvim) repository. From now
+on, simply installing `wal-colors.nvim` plugin will make this colorscheme available.
+
 # mbc-colorscheme
 
 A colorscheme that makes use of your pywal colors via the [wal-colors](https://github.com/mbrea-c/wal-colors.nvim) lua API.
